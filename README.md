@@ -241,30 +241,6 @@ The `app.py` file provides an interactive web interface with:
 - **Feature importance sidebar** — visual bar chart of all 7 features
 - **Dataset statistics** — total orders, average time, max distance at a glance
 
-### App Screenshot Preview
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  🛵 Food Delivery Time Predictor                         │
-│                                                         │
-│  📦 1,000 orders  ⏱️ 57 min avg  📍 20 km max           │
-│                                                         │
-│  ┌─────────────────────┐  ┌─────────────────────────┐  │
-│  │ 📍 Delivery Info    │  │ 🏍️ Courier & Restaurant │  │
-│  │  Distance: ──●── 10 │  │  Vehicle: [Scooter ▼]  │  │
-│  │  Weather: [Clear ▼] │  │  Prep Time: ──●── 15   │  │
-│  │  Traffic: [High ▼]  │  │  Experience: ──●── 3   │  │
-│  └─────────────────────┘  └─────────────────────────┘  │
-│                                                         │
-│           [ 🔮 Predict Delivery Time ]                  │
-│                                                         │
-│  ┌─────────────────────────────────────────────────┐   │
-│  │           🕒  61 minutes                         │   │
-│  │      Range: 42 – 76 min                         │   │
-│  └─────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────┘
-```
-
 ---
 
 ## Technologies Used
